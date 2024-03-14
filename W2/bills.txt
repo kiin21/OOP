@@ -1,0 +1,44 @@
+Date: 2024-03-14 08:44:48
+Total: 2036 $
+Title                                                                      Price           Quantity
+Unbroken                                                                   13.49                151
+---------------------------------------------
+Date: 2024-03-14 08:42:10
+Total: 2036 $
+Title                                                                      Price           Quantity
+Unbroken                                                                   13.49                151
+---------------------------------------------
+Date: 2024-03-14 08:40:03
+Total: 13 $
+Title                                                                      Price           Quantity
+Unbroken                                                                   13.49                  1
+---------------------------------------------
+Date: 2024-03-14 08:39:39
+Total: 2036 $
+Title                                                                      Price           Quantity
+Unbroken                                                                   13.49                151
+---------------------------------------------
+Date: 2024-03-14 08:37:37
+Total: 2036 $
+Title                                                                      Price           Quantity
+Unbroken                                                                   13.49                151
+---------------------------------------------
+Date: 2024-03-14 08:32:16
+Total: 2036.99 $
+Title                                                                      Price           Quantity
+Unbroken                                                                   13.49                151
+---------------------------------------------
+Date: 2024-03-14 00:41:42
+Total: 8.99 $
+Title                                                                      Price           Quantity
+Pride and Prejudice                                                        8.99                   1
+---------------------------------------------
+Date: 2024-03-14 00:41:31
+Total: 0 $
+Title                                                                      Price           Quantity
+---------------------------------------------
+Date: 2024-03-14 00:40:51
+Total: 8.99 $
+Title                                                                      Price           Quantity
+Pride and Prejudice                                                        8.99                   1
+---------------------------------------------
